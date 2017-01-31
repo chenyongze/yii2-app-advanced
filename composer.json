@@ -38,5 +38,11 @@
     },
     "scripts": {
         "post-install-cmd": "php init --env=Development --overwrite=n"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
     }
 }

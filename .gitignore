@@ -1,5 +1,7 @@
-# yii console command
+# yii console commands
 /yii
+/yii_test
+/yii_test.bat
 
 # phpstorm project files
 .idea
@@ -31,6 +33,7 @@ phpunit.phar
 
 # vagrant runtime
 /.vagrant
+<<<<<<< HEAD
 
 # codeception generated files
 common/tests/_support/_generated/*
@@ -39,3 +42,5 @@ backend/tests/_support/_generated/*
 
 #composer lock
 composer.lock
+=======
+>>>>>>> b756368a09f96f55e986643e05d5cb93ae46e855
